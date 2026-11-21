@@ -1,0 +1,5 @@
+# Executavel e arquivos gerados pelo programa
+*.exe
+*.o
+*.txt
+.vscode/
